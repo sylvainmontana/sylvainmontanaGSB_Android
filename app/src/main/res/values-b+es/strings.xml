@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Directorio GSB</string>
+    <string name="annuaire">Directorio</string>
+    <string name="detente">Relajación</string>
+    <string name="calculatrice">Calculadora</string>
+    <string name="retour">Regreso</string>
+    <string name="gagne">Won !</string>
+    <string name="perdu">Perdido...</string>
+    <string name="nul">Nulo</string>
+    <string name="moi">Me</string>
+    <string name="jouez">Jugar !</string>
+</resources>

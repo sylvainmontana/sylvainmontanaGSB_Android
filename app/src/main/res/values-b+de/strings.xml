@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Verzeichnis GSB</string>
+    <string name="annuaire">Verzeichnis</string>
+    <string name="detente">Entspannung</string>
+    <string name="calculatrice">Rechner</string>
+    <string name="retour">Rückkehr</string>
+    <string name="gagne">Won !</string>
+    <string name="perdu">Verloren...</string>
+    <string name="nul">Nichtig</string>
+    <string name="moi">Mir</string>
+    <string name="jouez">Spielen !</string>
+</resources>
